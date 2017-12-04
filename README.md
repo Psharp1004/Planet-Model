@@ -2,7 +2,6 @@
 CS3GC3 Project
 
 ## Insturction
-
 This program uses C/C++ and OpenGL to produce and display an interactive terrain.
 
 Run this program from commandline (linux)
@@ -14,7 +13,11 @@ $ ./asgfinal
 
 Commands:
 
-(W/A/S/D) change camera position - free navigate
+(Mouse) rotate camera angle
+
+(W/S) change camera position - zoom in(W) and out(S)
+
+(A/D) change camera position - strafe camera to left(A) and right(D) 
 
 (J/L) scene rotation - rotate the globe horizontally
 
@@ -22,11 +25,9 @@ Commands:
 
 (R) randomize scene
 
-(Q) -> exit application
+(Q) exit application
 
-
-## Notes
-
+## Note
 Basic functionality: Implementation of height map uses unique approach.
 
 Basic functionality: 2D height array maps into UV-map, as (size) ring * (size) vertices.
@@ -41,25 +42,14 @@ Lighting: materials were used independently
 
 Lighting: on windows system, given 3 vertex for position cause error. giving 4th 1.0f resolved this.
 
-Alpha blending: N/A
-
-Particle Systems: N/A
-
-Animated Characters: N/A
-
-Picking: N/A
-
 Advanced Camera control: swim-mode / scene rotation
 
 Shaders: Shading, height dependent.
 
-To be done: 
-
-(K/I) scene rotation - rotate the globe vertically
-
-height dependent texture mapping,
-
-normal maps and texture maps to be directly imported from gridBox.
+## Things To be done: 
+1. (K/I) scene rotation - rotate the globe vertically
+2. Height dependent texture mapping
+3. Normal maps and texture maps to be directly imported from gridBox
 
 ## Random Scene 1
 ![alt text](https://github.com/Psharp1004/Planet-Model/blob/master/screenshot1.JPG)
