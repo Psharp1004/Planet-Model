@@ -1,7 +1,7 @@
 # Planet-Model
 CS3GC3 Project
 
-![alt text](https://github.com/Psharp1004/Planet-Model/blob/master/screenshot.JPG)
+## Insturction
 
 This program uses C/C++ and OpenGL to produce and display an interactive terrain.
 
@@ -25,7 +25,7 @@ Commands:
 (Q) -> exit application
 
 
-Notes:
+## Notes
 
 Basic functionality: Implementation of height map uses unique approach.
 
@@ -60,3 +60,9 @@ To be done:
 height dependent texture mapping,
 
 normal maps and texture maps to be directly imported from gridBox.
+
+## Random scene 1
+![alt text](https://github.com/Psharp1004/Planet-Model/blob/master/screenshot1.JPG)
+
+## Random scene 2 (zoomed out)
+![alt text](https://github.com/Psharp1004/Planet-Model/blob/master/screenshot2.JPG)
