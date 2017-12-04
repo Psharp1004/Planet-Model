@@ -6,7 +6,7 @@ This cross-platform program uses C/C++ and OpenGL(GLUT) to produce and display a
 ## Tools
 Visual Studio IDE
 
-## Insturction
+## Instruction
 Run this program from commandline (linux)
 $ make -f makefile
 This will print available commands on terminal.
@@ -49,7 +49,7 @@ Advanced Camera control: swim-mode / scene rotation
 
 Shaders: Shading, height dependent.
 
-## Things To be done: 
+## Things To Be Done: 
 1. (K/I) scene rotation - rotate the globe vertically
 2. Height dependent texture mapping
 3. Normal maps and texture maps to be directly imported from gridBox
