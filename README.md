@@ -1,7 +1,7 @@
 # Planet-Model
 CS3GC3 Project
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/Psharp1004/Planet-Model/blob/master/screenshot.JPG)
 
 This program uses C/C++ and OpenGL to produce and display an interactive terrain.
 
