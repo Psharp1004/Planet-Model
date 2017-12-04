@@ -1,6 +1,8 @@
 # Planet-Model
 CS3GC3 Project
 
+![alt text](http://url/to/img.png)
+
 This program uses C/C++ and OpenGL to produce and display an interactive terrain.
 
 Run this program from commandline (linux)
