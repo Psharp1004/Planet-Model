@@ -1,9 +1,12 @@
 # Planet-Model
 CS3GC3 Project
 
-## Insturction
-This program uses C/C++ and OpenGL to produce and display an interactive terrain.
+This program uses C/C++ and OpenGL(GLUT) to produce and display an interactive terrain.
 
+## Tools
+Visual Studio
+
+## Insturction
 Run this program from commandline (linux)
 $ make -f makefile
 This will print available commands on terminal.
