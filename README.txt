@@ -1,8 +1,8 @@
 Mcmaster University Comp Sci 3GC3
 Final project. Planet model.
-Due Friday Dec 20, 2014 at 12:00pm
+Due Friday Dec 20, 2016 at 12:00pm
 
-Name : Hyonwoo Kee, Peng Zheng, Antonio Cordeiro, Emikele Emiey Elamah
+Name : Hyonwoo Kee, Peng Zheng, Antonio Cordeiro
 Macid : keeh, zhengp2, bastosa
 
 This program uses C/C++ and OpenGL to produce and display an interactive terrain.
@@ -16,7 +16,7 @@ $ ./asgfinal
 
 Commands:
 (W/A/S/D) change camera position - free navigate
-(J/K/L/I) scene rotation - rotate the globe
+(J/L) scene rotation - rotate the globe horizontally
 (C) reset scene rotation
 (R) randomize scene
 (Q) -> exit application
@@ -35,7 +35,8 @@ Animated Characters: N/A
 Picking: N/A
 Advanced Camera control: swim-mode / scene rotation
 Shaders: Shading, height dependent.
-To be done: height dependent texture mapping,
+To be done: (K/I) scene rotation - rotate the globe vertically
+height dependent texture mapping,
 normal maps and texture maps to be directly imported from gridBox.
 
 Reference:
