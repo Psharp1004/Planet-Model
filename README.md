@@ -11,7 +11,7 @@ Run this program from commandline (linux)
 $ make -f makefile
 This will print available commands on terminal.
 
-Run this program from executable
+Run this program from executable (asgfinal.exe)
 $ ./asgfinal
 
 Commands:
