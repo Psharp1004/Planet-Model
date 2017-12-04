@@ -4,7 +4,7 @@ CS3GC3 Project
 This program uses C/C++ and OpenGL(GLUT) to produce and display an interactive terrain.
 
 ## Tools
-Visual Studio
+Visual Studio IDE
 
 ## Insturction
 Run this program from commandline (linux)
