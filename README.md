@@ -1,7 +1,7 @@
 # Planet-Model
 CS3GC3 Project
 
-This program uses C/C++ and OpenGL(GLUT) to produce and display an interactive terrain.
+This cross-platform program uses C/C++ and OpenGL(GLUT) to produce and display an interactive terrain on a 3D earth-like planet model.
 
 ## Tools
 Visual Studio IDE
