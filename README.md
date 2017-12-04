@@ -61,8 +61,8 @@ height dependent texture mapping,
 
 normal maps and texture maps to be directly imported from gridBox.
 
-## Random scene 1
+## Random Scene 1
 ![alt text](https://github.com/Psharp1004/Planet-Model/blob/master/screenshot1.JPG)
 
-## Random scene 2 (zoomed out)
+## Random Scene 2 (Zoomed Out)
 ![alt text](https://github.com/Psharp1004/Planet-Model/blob/master/screenshot2.JPG)
