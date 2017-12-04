@@ -16,7 +16,7 @@ Commands:
 
 (W/A/S/D) change camera position - free navigate
 
-(J/K/L/I) scene rotation - rotate the globe
+(J/L) scene rotation - rotate the globe horizontally
 
 (C) reset scene rotation
 
@@ -53,6 +53,10 @@ Advanced Camera control: swim-mode / scene rotation
 
 Shaders: Shading, height dependent.
 
-To be done: height dependent texture mapping,
+To be done: 
+
+(K/I) scene rotation - rotate the globe vertically
+
+height dependent texture mapping,
 
 normal maps and texture maps to be directly imported from gridBox.
